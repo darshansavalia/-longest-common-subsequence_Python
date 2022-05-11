@@ -3,10 +3,9 @@
 
 Technology used :- Python
 
-Project Structure:- There is a Zip file, All three files are in this Zip folder.
-		            There are three file with different names, LCS_BF.py, LCS_DP.py and LCS_DP_CB.py,
-		            which is main file of the project. LCS1.txt data file is used in LCS_BF.py and LCS_DP.py for file read.
-		            LCS2.txt is for LCS_DP_CB
+Project Structure:- There are three file with different names, LCS_BF.py, LCS_DP.py and LCS_DP_CB.py,
+	            which is main file of the project. LCS1.txt data file is used in LCS_BF.py and LCS_DP.py for file read.
+	            LCS2.txt is for LCS_DP_CB
 
 Purpose :- Implement the LCS - Dynamic  Programming, Brute Force and Dynamic Programming approach with b and c arrays.
 
